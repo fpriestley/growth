@@ -1,2 +1,2 @@
 # growth
-Code for calculating charged grain accretion with an evolving size distribution
+This is a collection of Fortran code to calculate the grain charge, Coulomb focusing factor and the evolving size distribution of silicate dust undergoing to gas-phase accretion. Mostly based off Weingartner & Draine (1999,2001) and Zhukovska et al. (2016,2018), apart from the size distribution stuff which is described in Priestley, De Looze & Barlow (submitted). Uploaded mostly in the interests of transparency, so the code is sparsely commented and not enormously user-friendly, but anyone who thinks they can get some use out of it is welcome to try.
