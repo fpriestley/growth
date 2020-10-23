@@ -1,0 +1,10 @@
+n30t100		! model name
+30.		! gas density (cm-3)
+100.		! gas temperature (K)
+350.		! dust destruction timescale (Myr)
+100		! number of grain size bins
+5e-3		! minimum grain size (um)
+0.25		! maximum grain size (um)
+n30t100.dat	! Coulomb factor filename
+2e5		! turbulent velocity (cm s-1)
+1e-3		! grain shattering efficiency
